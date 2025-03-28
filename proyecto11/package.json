@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "proyecto11",
+=======
+  "name": "proyecto1",
+>>>>>>> 40bd316 (saliendo)
   "private": true,
   "version": "0.0.0",
   "type": "module",
